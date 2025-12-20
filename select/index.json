@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "サインはB -New Arrange Ver.-",
+  "base_artist": "B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：潘めぐみ）、MEMちょ（CV：大久保瑠美）",
+  "createdAt": "2025-12-20T08:42:34.634160Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サインはB -New Arrange Ver.-",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/01_サインはB_-New_Arrange_Ver.-_B小町.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サインはB -New Arrange Ver.-",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/02_サインはB_-New_Arrange_Ver.-_B小町.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サインはB -New Arrange Ver.-",
+      "artist": "B小町 ルビー(CV：伊駒ゆりえ)、有馬かな(CV：潘めぐみ)、MEMちょ(CV：大久保瑠美)",
+      "has_synced": true,
+      "path": "select/03_サインはB_-New_Arrange_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サインはB - New Arrange Ver.",
+      "artist": "B小町/ルビー(CV:伊駒ゆりえ)/有馬かな(CV:潘めぐみ)/MEMちょ(CV:大久保瑠美)",
+      "has_synced": true,
+      "path": "select/04_サインはB_-_New_Arrange_Ver._B小町_ルビー(CV_伊駒ゆりえ)_有馬かな(CV_潘めぐみ)_MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サインはB -New Arrange Ver.-",
+      "artist": "B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：潘めぐみ）、MEMちょ（CV：大久保瑠美）",
+      "has_synced": true,
+      "path": "select/05_サインはB_-New_Arrange_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サインはB -New Arrange Ver.-",
+      "artist": "B小町 ルビー(CV.伊駒ゆりえ)、有馬かな(CV.潘めぐみ)、MEMちょ(CV.大久保瑠美)",
+      "has_synced": true,
+      "path": "select/06_サインはB_-New_Arrange_Ver.-_B小町_ルビー(CV.伊駒ゆりえ)、有馬かな(CV.潘めぐみ)、MEMちょ(CV.大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サインはB -New Arrange Ver.-",
+      "artist": "B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：藩めぐみ）、MEMちょ（CV：大久保瑠美）",
+      "has_synced": true,
+      "path": "select/07_サインはB_-New_Arrange_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_藩めぐみ)、MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サインはB -New Arrange Ver.-",
+      "artist": "B-Komachi ルビー(CV:伊駒ゆりえ)、有馬かな(CV:Megumi Han)、MEMちょ(CV:大久保瑠美)",
+      "has_synced": true,
+      "path": "select/08_サインはB_-New_Arrange_Ver.-_B-Komachi_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_Megumi_Han)、MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サインはB -New Arrange Ver.- (原曲歌手:B小町 ルビー(CV:伊駒ゆりえ)、有馬かな(CV:潘めぐみ)、MEMちょ(CV:大久保瑠美))",
+      "artist": "歌っちゃ王",
+      "has_synced": true,
+      "path": "select/09_サインはB_-New_Arrange_Ver.-_(原曲歌手_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美))_歌っちゃ王.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サインはB -New Arrange Ver.-(カラオケ)[原曲歌手:B小町 ルビー(CV:伊駒ゆりえ)、有馬かな(CV:潘めぐみ)、MEMちょ(CV:大久保瑠美)]",
+      "artist": "歌っちゃ王",
+      "has_synced": true,
+      "path": "select/10_サインはB_-New_Arrange_Ver.-(カラオケ)[原曲歌手_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保_歌っちゃ王.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サインはB -New Arrange Ver.-",
+      "artist": "B小町 ルビー(CV:伊駒ゆりえ)、有馬かな(CV:潘めぐみ)、MEMちょ(CV:大久保瑠美)",
+      "has_synced": false,
+      "path": "select/pl_01_サインはB_-New_Arrange_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).txt"
+    }
+  ]
+}
